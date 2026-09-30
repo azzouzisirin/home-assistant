@@ -71,5 +71,35 @@
     "s2_text": "We reuse your current furniture before any purchase and respect your budget in TND.",
     "s3_title": "A plan ready to execute",
     "s3_text": "Layouts checked by a geometry engine, with an estimated cost and a task list."
+  },
+    "projects": {
+    "title": "Your projects",
+    "empty": "No projects yet. Create your first one.",
+    "new": "New project",
+    "status": { "draft": "Draft" },
+    "goal_title": "What do you want to do?",
+    "goal_subtitle": "Choose a goal for your room",
+    "goals": {
+      "improve_room": "Improve my room",
+      "rearrange": "Rearrange furniture",
+      "add_furniture": "Add furniture",
+      "remove_furniture": "Remove furniture",
+      "improve_budget": "Improve with a budget"
+    },
+    "free_text_label": "Or describe your goal in your own words (optional)",
+    "free_text_placeholder": "Example: I need a study corner",
+    "continue": "Continue",
+    "room_title": "Which room is it?",
+    "room_subtitle": "Choose the room type",
+    "rooms": {
+      "living_room": "Living room",
+      "bedroom": "Bedroom",
+      "kids_room": "Kids' room",
+      "office": "Office",
+      "kitchen": "Kitchen"
+    },
+    "create": "Create project",
+    "creating": "Creating...",
+    "back": "Back"
   }
 }

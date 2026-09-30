@@ -71,5 +71,35 @@
     "s2_text": "Nous réutilisons vos meubles avant tout achat et respectons votre budget en dinars.",
     "s3_title": "Un plan prêt à exécuter",
     "s3_text": "Des agencements vérifiés par un moteur géométrique, avec un coût estimé et une liste de tâches."
+  },
+    "projects": {
+    "title": "Vos projets",
+    "empty": "Aucun projet pour le moment. Créez le premier.",
+    "new": "Nouveau projet",
+    "status": { "draft": "Brouillon" },
+    "goal_title": "Que voulez-vous faire ?",
+    "goal_subtitle": "Choisissez un objectif pour votre pièce",
+    "goals": {
+      "improve_room": "Améliorer ma pièce",
+      "rearrange": "Réorganiser les meubles",
+      "add_furniture": "Ajouter des meubles",
+      "remove_furniture": "Retirer des meubles",
+      "improve_budget": "Améliorer avec un budget"
+    },
+    "free_text_label": "Ou décrivez votre objectif avec vos mots (facultatif)",
+    "free_text_placeholder": "Exemple : j'ai besoin d'un coin bureau",
+    "continue": "Continuer",
+    "room_title": "De quelle pièce s'agit-il ?",
+    "room_subtitle": "Choisissez le type de pièce",
+    "rooms": {
+      "living_room": "Salon",
+      "bedroom": "Chambre",
+      "kids_room": "Chambre d'enfant",
+      "office": "Bureau",
+      "kitchen": "Cuisine"
+    },
+    "create": "Créer le projet",
+    "creating": "Création...",
+    "back": "Retour"
   }
 }

@@ -8,7 +8,7 @@ import RegisterPage from './pages/RegisterPage.jsx'
 import VerifyEmailPage from './pages/VerifyEmailPage.jsx'
 import ForgotPasswordPage from './pages/ForgotPasswordPage.jsx'
 import HomePage from './pages/HomePage.jsx'
-
+import NewProjectPage from './pages/NewProjectPage.jsx'
 const ONBOARDED_KEY = 'onboarded'
 
 function App() {
@@ -37,6 +37,7 @@ function App() {
       <Route path="/forgot-password" element={guestOnly(<ForgotPasswordPage />)} />
       <Route path="/" element={user ? <HomePage /> : <Navigate to="/login" />} />
       <Route path="*" element={<Navigate to="/" />} />
+            <Route path="/projects/new" element={user ? <NewProjectPage /> : <Navigate to="/login" />} />
     </Routes>
   )
 }
