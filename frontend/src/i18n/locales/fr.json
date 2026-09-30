@@ -1,0 +1,75 @@
+{
+  "app": { "name": "Home Assistant" },
+  "common": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "or": "ou",
+    "loading": "Chargement...",
+    "wait": "Veuillez patienter...",
+    "back_to_signin": "Retour à la connexion",
+    "language": "Langue"
+  },
+  "login": {
+    "title": "Bon retour",
+    "subtitle": "Connectez-vous pour continuer",
+    "submit": "Se connecter",
+    "guest": "Essayer sans compte",
+    "forgot": "Mot de passe oublié ?",
+    "no_account": "Pas de compte ?",
+    "create_one": "Créer un compte"
+  },
+  "register": {
+    "title": "Créez votre compte",
+    "subtitle": "Commencez à planifier votre pièce en quelques minutes",
+    "password_label": "Mot de passe (8 caractères min.)",
+    "submit": "Créer le compte",
+    "creating": "Création...",
+    "have_account": "Vous avez déjà un compte ?",
+    "sign_in": "Se connecter"
+  },
+  "verify": {
+    "title": "Vérifiez votre e-mail",
+    "subtitle": "Nous avons envoyé un code à 6 chiffres à {{email}}",
+    "code_label": "Code à 6 chiffres",
+    "submit": "Vérifier",
+    "checking": "Vérification...",
+    "resend": "Renvoyer le code",
+    "resend_in": "Renvoyer le code dans {{seconds}} s",
+    "sent_new": "Un nouveau code a été envoyé."
+  },
+  "forgot": {
+    "title": "Mot de passe oublié",
+    "subtitle": "Nous vous enverrons un code à 6 chiffres par e-mail",
+    "send": "Envoyer le code",
+    "sending": "Envoi...",
+    "code_title": "Saisissez le code",
+    "code_subtitle": "Si {{email}} est enregistré, un code à 6 chiffres lui a été envoyé.",
+    "verify_code": "Vérifier le code",
+    "other_email": "Utiliser un autre e-mail",
+    "new_title": "Nouveau mot de passe",
+    "new_subtitle": "Choisissez un nouveau mot de passe pour votre compte",
+    "new_label": "Nouveau mot de passe (8 caractères min.)",
+    "change": "Changer le mot de passe",
+    "saving": "Enregistrement..."
+  },
+  "home": {
+    "title": "Accueil",
+    "guest_subtitle": "Vous utilisez l'application en tant qu'invité",
+    "signed_in": "Connecté en tant que {{email}}",
+    "guest_note": "Les données d'invité sont conservées uniquement pendant cette session. Créez un compte pour garder vos projets.",
+    "logout": "Se déconnecter",
+    "delete": "Supprimer mon compte",
+    "delete_confirm": "Votre compte et toutes vos données seront supprimés définitivement. Continuer ?"
+  },
+    "onboarding": {
+    "skip": "Passer",
+    "next": "Suivant",
+    "start": "Commencer",
+    "s1_title": "Photographiez votre pièce",
+    "s1_text": "Prenez une photo et dites-nous votre objectif : plus d'espace, un coin bureau ou une chambre d'enfant.",
+    "s2_title": "Votre budget d'abord",
+    "s2_text": "Nous réutilisons vos meubles avant tout achat et respectons votre budget en dinars.",
+    "s3_title": "Un plan prêt à exécuter",
+    "s3_text": "Des agencements vérifiés par un moteur géométrique, avec un coût estimé et une liste de tâches."
+  }
+}

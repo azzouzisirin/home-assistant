@@ -1,0 +1,75 @@
+{
+  "app": { "name": "Home Assistant" },
+  "common": {
+    "email": "Email",
+    "password": "Password",
+    "or": "or",
+    "loading": "Loading...",
+    "wait": "Please wait...",
+    "back_to_signin": "Back to sign in",
+    "language": "Language"
+  },
+  "login": {
+    "title": "Welcome back",
+    "subtitle": "Sign in to continue",
+    "submit": "Sign in",
+    "guest": "Try without an account",
+    "forgot": "Forgot password?",
+    "no_account": "No account?",
+    "create_one": "Create one"
+  },
+  "register": {
+    "title": "Create your account",
+    "subtitle": "Start planning your room in minutes",
+    "password_label": "Password (min 8 characters)",
+    "submit": "Create account",
+    "creating": "Creating...",
+    "have_account": "Already have an account?",
+    "sign_in": "Sign in"
+  },
+  "verify": {
+    "title": "Verify your email",
+    "subtitle": "We sent a 6-digit code to {{email}}",
+    "code_label": "6-digit code",
+    "submit": "Verify",
+    "checking": "Checking...",
+    "resend": "Resend code",
+    "resend_in": "Resend code in {{seconds}}s",
+    "sent_new": "A new code was sent."
+  },
+  "forgot": {
+    "title": "Forgot password",
+    "subtitle": "We will email you a 6-digit code",
+    "send": "Send code",
+    "sending": "Sending...",
+    "code_title": "Enter the code",
+    "code_subtitle": "If {{email}} is registered, a 6-digit code was sent to it.",
+    "verify_code": "Verify code",
+    "other_email": "Use another email",
+    "new_title": "New password",
+    "new_subtitle": "Choose a new password for your account",
+    "new_label": "New password (min 8 characters)",
+    "change": "Change password",
+    "saving": "Saving..."
+  },
+  "home": {
+    "title": "Home",
+    "guest_subtitle": "You are using the app as a guest",
+    "signed_in": "Signed in as {{email}}",
+    "guest_note": "Guest data is kept only on this device session. Create an account to keep your projects.",
+    "logout": "Logout",
+    "delete": "Delete my account",
+    "delete_confirm": "Your account and all your data will be permanently deleted. Continue?"
+  },
+    "onboarding": {
+    "skip": "Skip",
+    "next": "Next",
+    "start": "Get started",
+    "s1_title": "Photograph your room",
+    "s1_text": "Take a photo and tell us your goal: more space, a study corner or a kids' room.",
+    "s2_title": "Budget first",
+    "s2_text": "We reuse your current furniture before any purchase and respect your budget in TND.",
+    "s3_title": "A plan ready to execute",
+    "s3_text": "Layouts checked by a geometry engine, with an estimated cost and a task list."
+  }
+}

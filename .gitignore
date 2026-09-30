@@ -1,0 +1,10 @@
+/backend/node_modules
+/backend/.env
+/backend/app.db
+/frontend/node_modules
+/frontend/.env
+dist
+
+*.db
+*.db-journal
+.DS_Store
